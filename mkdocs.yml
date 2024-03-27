@@ -1,0 +1,65 @@
+### Site metadata ###
+
+site_name: KinesinLMS Documentation
+site_description: KinesinLMS, a simple, effective, easy-to-grok, Learning Management System for the overworked developer.
+site_url: https://kinesinelms.github.io/
+theme:
+  name: material
+
+nav:
+  - 'Home': 'index.md'
+
+  - 'Overview':
+      - 'Introduction': 'overview/introduction.md'
+      - 'Guiding Principles': 'overview/guiding_principles.md'
+      - 'Acknowledgements': 'overview/acknowledgements.md'
+
+  - 'Install':
+      - 'Overview': 'install/installation_overview.md'
+      - 'Local Setup': 'install/local_setup.md'
+
+  - 'Architecture':
+      - 'Architecture Overview': 'architecture/architecture_overview.md'
+      - 'Database': 'architecture/database.md'
+      - 'Environment Variables': 'architecture/env_variables.md'
+      - 'API': 'architecture/api.md'
+      - 'Testing': 'architecture/testing.md'
+      - 'Styles': 'architecture/styles.md'
+      - 'System Email': 'architecture/system_email.md'
+      - 'HTML Content Tags': 'architecture/html_content_tags.md'
+
+  - 'Courses':
+      - 'Courses Overview': 'course/course_overview.md'
+      - 'Blocks': 'course/blocks.md'
+      - 'Block Resources': 'course/block_resources.md'
+
+  - 'Forum Integration':
+      - 'Overview': 'forum/forum_overview.md'
+      - 'Provider Integration': 'forum/provider_integration.md'
+      - 'Forum Models': 'forum/forum_models.md'
+      - 'Local Setup': 'forum/local_setup.md'
+      - 'Connecting': 'forum/connecting_to_forum_service.md'
+
+  - 'Badges':
+      - 'Badges Overview': 'badges/badges_overview.md'
+      - 'Badge Provider Integration': 'badges/provider_integration.md'
+
+  - 'Surveys':
+      - 'Surveys Overview': 'surveys/survesy_overview.md'
+      - 'Survey Provider Integration': 'surveys/provider_integration.md'
+
+  - 'Email Automation':
+      - 'Email Automation Overview': 'email_automation/email_automation_overview.md'
+      - 'Email Automation Provider Integration': 'email_automation/provider_integration.md'
+
+  - 'Deployment':
+      - 'Heroku': 'deployment/heroku.md'
+
+  - 'Course Authoring Guide':
+      - 'Authoring Overview': 'course_authoring_guide/course_authoring_guide_overview.md'
+      - 'Creating a Course': 'course_authoring_guide/creating_a_course.md'
+
+  - About:
+      - 'License': 'license.md'
+      - 'Release Notes': 'release_notes.md'
+      - 'Contributing': 'contributing.md'
