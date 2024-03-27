@@ -45,7 +45,7 @@ nav:
       - 'Badge Provider Integration': 'badges/provider_integration.md'
 
   - 'Surveys':
-      - 'Surveys Overview': 'surveys/survesy_overview.md'
+      - 'Surveys Overview': 'surveys/surveys_overview.md'
       - 'Survey Provider Integration': 'surveys/provider_integration.md'
 
   - 'Email Automation':
