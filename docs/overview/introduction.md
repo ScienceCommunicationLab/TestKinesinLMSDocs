@@ -38,7 +38,7 @@ the number of students who can access the course through their (potentially limi
 
 KinesinLMS originated as a custom e-Learning platform developed
 by [McQuillen Interactive](https://www.mcquilleninterative.com)
-for [Science Communication Lab (SCL)](https://www.sciencecommunicationlab.org/) as part of the iBiology Courses project.
+for [Science Communication Lab (SCL)](https://www.sciencecommunicationlab.org/) as part of SCL's iBiology Courses project.
 SCL funded the work with support from the National Institute for General Medical Sciences (grants #5R25GM116704 and
 #1R25GM139147).
 
