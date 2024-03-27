@@ -25,7 +25,7 @@ use ["hypermedia"](https://hypermedia.systems/) via HTMx to get immediate and en
 introducing a complicated front-end framework. Furthermore, using HTMx allows the developer to continue to
 use the simple (and effective) Django form classes rather than crafting custom APIs for every interaction.
 
-However, certain features like interactive assessments are useful, and will often require a more complex
+However, certain features like fully interactive assessments may require a more complex
 front-end. In that case we use React. But we try to keep the React components as simple as possible, and continually
 re-evaluate whether we need React and its build system at all. (Web components are another option we're considering to
 further reduce complexity.)
